@@ -1,3 +1,1 @@
-# CONTRIBUTING.md
-
-- Contains list of contributors for this project.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. 
